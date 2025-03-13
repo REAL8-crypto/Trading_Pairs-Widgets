@@ -1,0 +1,2 @@
+<?php
+return ['project-id-version'=>'REAL8 Trading Pair Widget','report-msgid-bugs-to'=>'','pot-creation-date'=>'2025-03-08 23:33+0000','po-revision-date'=>'2025-03-08 23:37+0000','last-translator'=>'Real Ocho','language-team'=>'Japanese','language'=>'ja','plural-forms'=>'nplurals=1; plural=0;','mime-version'=>'1.0','content-type'=>'text/plain; charset=UTF-8','content-transfer-encoding'=>'8bit','x-generator'=>'Loco https://localise.biz/','x-loco-version'=>'2.7.1; wp-6.7.2','x-domain'=>'trading-widget','messages'=>['Buy'=>'買う','Sell'=>'売る']];

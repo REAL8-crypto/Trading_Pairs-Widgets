@@ -1,0 +1,76 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: REAL8 Trading Pair Widget\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-03-08 23:33+0000\n"
+"PO-Revision-Date: 2025-03-08 23:35+0000\n"
+"Last-Translator: Real Ocho\n"
+"Language-Team: Japanese\n"
+"Language: ja\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.7.1; wp-6.7.2\n"
+"X-Domain: trading-widget"
+
+#. Description of the plugin
+msgid ""
+"A widget to select trading pairs for REAL8 and redirect to trading pages. "
+"shortcode [trading_widget]"
+msgstr ""
+
+#: includes/admin/settings-fields.php:26
+msgid "Add or remove trading pairs and their URLs for the widget."
+msgstr ""
+
+#: includes/admin/settings-fields.php:69
+msgid "Add Trading Pair"
+msgstr ""
+
+#: templates/widget.php:28 includes/admin/settings-fields.php:47
+#: includes/admin/settings-fields.php:77
+msgid "Buy"
+msgstr ""
+
+#: includes/admin/settings-fields.php:11
+msgid "Manage Trading Pairs"
+msgstr ""
+
+#. Author of the plugin
+msgid "ProWoos"
+msgstr ""
+
+#. Name of the plugin
+msgid "REAL8 Trading Pair Widget"
+msgstr ""
+
+#: templates/widget.php:41 includes/admin/settings-fields.php:56
+#: includes/admin/settings-fields.php:84
+msgid "Sell"
+msgstr ""
+
+#: templates/widget.php:17
+msgid "Trade Assets"
+msgstr ""
+
+#: templates/widget.php:52
+msgid "Trade Now"
+msgstr ""
+
+#: includes/admin/settings-fields.php:18
+msgid "Trading Pairs"
+msgstr ""
+
+#: includes/admin/admin-menu.php:8
+msgid "Trading Widget"
+msgstr ""
+
+#: includes/admin/settings-page.php:6 includes/admin/admin-menu.php:7
+msgid "Trading Widget Settings"
+msgstr ""
+
+#: includes/admin/settings-fields.php:61 includes/admin/settings-fields.php:88
+msgid "URL"
+msgstr ""
