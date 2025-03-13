@@ -52,4 +52,4 @@ $plugin_url = plugin_dir_url(__FILE__);
     <button class="trade-button" id="trade-button"><?php _e('Trade Now', 'trading-widget'); ?></button>
 </div>
 
-<script src="../js/widget-icons.js"></script>
+<script src="https://real8.org/wp-content/plugins/trading-widget-main//assets/js/widget-icons.js"></script>
